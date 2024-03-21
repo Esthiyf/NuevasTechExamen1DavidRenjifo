@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\modalida de grado IV\\examen1\\Examen01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEF395C-E013-42E5-ABC8-6B04C7E4C1D6}|Examen.Vista\\Examen.Vista.csproj|e:\\modalida de grado iv\\examen1\\examen01\\examen.vista\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DEF395C-E013-42E5-ABC8-6B04C7E4C1D6}|Examen.Vista\\Examen.Vista.csproj|solutionrelative:examen.vista\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21C8048-DB0C-432F-B4D2-F80FC70CEC10}|Examen.API.Proveedores\\Examen.API.Proveedores.csproj|e:\\modalida de grado iv\\examen1\\examen01\\examen.api.proveedores\\provedorfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21C8048-DB0C-432F-B4D2-F80FC70CEC10}|Examen.API.Proveedores\\Examen.API.Proveedores.csproj|solutionrelative:examen.api.proveedores\\provedorfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06FF95-EC57-41A5-AA9E-F9135A5795C1}|Coling.Shared\\Coling.Shared.csproj|e:\\modalida de grado iv\\examen1\\examen01\\coling.shared\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06FF95-EC57-41A5-AA9E-F9135A5795C1}|Coling.Shared\\Coling.Shared.csproj|solutionrelative:coling.shared\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21C8048-DB0C-432F-B4D2-F80FC70CEC10}|Examen.API.Proveedores\\Examen.API.Proveedores.csproj|e:\\modalida de grado iv\\examen1\\examen01\\examen.api.proveedores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21C8048-DB0C-432F-B4D2-F80FC70CEC10}|Examen.API.Proveedores\\Examen.API.Proveedores.csproj|solutionrelative:examen.api.proveedores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21C8048-DB0C-432F-B4D2-F80FC70CEC10}|Examen.API.Proveedores\\Examen.API.Proveedores.csproj|e:\\modalida de grado iv\\examen1\\examen01\\examen.api.proveedores\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F21C8048-DB0C-432F-B4D2-F80FC70CEC10}|Examen.API.Proveedores\\Examen.API.Proveedores.csproj|solutionrelative:examen.api.proveedores\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21C8048-DB0C-432F-B4D2-F80FC70CEC10}|Examen.API.Proveedores\\Examen.API.Proveedores.csproj|e:\\modalida de grado iv\\examen1\\examen01\\examen.api.proveedores\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21C8048-DB0C-432F-B4D2-F80FC70CEC10}|Examen.API.Proveedores\\Examen.API.Proveedores.csproj|solutionrelative:examen.api.proveedores\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06FF95-EC57-41A5-AA9E-F9135A5795C1}|Coling.Shared\\Coling.Shared.csproj|e:\\modalida de grado iv\\examen1\\examen01\\coling.shared\\coling.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BE06FF95-EC57-41A5-AA9E-F9135A5795C1}|Coling.Shared\\Coling.Shared.csproj|solutionrelative:coling.shared\\coling.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06FF95-EC57-41A5-AA9E-F9135A5795C1}|Coling.Shared\\Coling.Shared.csproj|e:\\modalida de grado iv\\examen1\\examen01\\coling.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06FF95-EC57-41A5-AA9E-F9135A5795C1}|Coling.Shared\\Coling.Shared.csproj|solutionrelative:coling.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21C8048-DB0C-432F-B4D2-F80FC70CEC10}|Examen.API.Proveedores\\Examen.API.Proveedores.csproj|e:\\modalida de grado iv\\examen1\\examen01\\examen.api.proveedores\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21C8048-DB0C-432F-B4D2-F80FC70CEC10}|Examen.API.Proveedores\\Examen.API.Proveedores.csproj|solutionrelative:examen.api.proveedores\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "E:\\modalida de grado IV\\examen1\\Examen01\\Examen.Vista\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Examen.Vista\\Components\\Pages\\Home.razor",
+              "ToolTip": "E:\\modalida de grado IV\\examen1\\Examen01\\Examen.Vista\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Examen.Vista\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T00:59:31.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProvedorFunction.cs",
+              "DocumentMoniker": "E:\\modalida de grado IV\\examen1\\Examen01\\Examen.API.Proveedores\\ProvedorFunction.cs",
+              "RelativeDocumentMoniker": "Examen.API.Proveedores\\ProvedorFunction.cs",
+              "ToolTip": "E:\\modalida de grado IV\\examen1\\Examen01\\Examen.API.Proveedores\\ProvedorFunction.cs",
+              "RelativeToolTip": "Examen.API.Proveedores\\ProvedorFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:51:44.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\modalida de grado IV\\examen1\\Examen01\\Examen.API.Proveedores\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Examen.API.Proveedores\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\modalida de grado IV\\examen1\\Examen01\\Examen.API.Proveedores\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Examen.API.Proveedores\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T00:45:19.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coling.Shared",
+              "DocumentMoniker": "E:\\modalida de grado IV\\examen1\\Examen01\\Coling.Shared\\Coling.Shared.csproj",
+              "RelativeDocumentMoniker": "Coling.Shared\\Coling.Shared.csproj",
+              "ToolTip": "E:\\modalida de grado IV\\examen1\\Examen01\\Coling.Shared\\Coling.Shared.csproj",
+              "RelativeToolTip": "Coling.Shared\\Coling.Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T00:38:27.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "E:\\modalida de grado IV\\examen1\\Examen01\\Examen.API.Proveedores\\Contexto.cs",
+              "RelativeDocumentMoniker": "Examen.API.Proveedores\\Contexto.cs",
+              "ToolTip": "E:\\modalida de grado IV\\examen1\\Examen01\\Examen.API.Proveedores\\Contexto.cs",
+              "RelativeToolTip": "Examen.API.Proveedores\\Contexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:16:36.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\modalida de grado IV\\examen1\\Examen01\\Examen.API.Proveedores\\Program.cs",
+              "RelativeDocumentMoniker": "Examen.API.Proveedores\\Program.cs",
+              "ToolTip": "E:\\modalida de grado IV\\examen1\\Examen01\\Examen.API.Proveedores\\Program.cs",
+              "RelativeToolTip": "Examen.API.Proveedores\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:11:02.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "E:\\modalida de grado IV\\examen1\\Examen01\\Coling.Shared\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Coling.Shared\\Proveedor.cs",
+              "ToolTip": "E:\\modalida de grado IV\\examen1\\Examen01\\Coling.Shared\\Proveedor.cs",
+              "RelativeToolTip": "Coling.Shared\\Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:09:40.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\modalida de grado IV\\examen1\\Examen01\\Coling.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "Coling.Shared\\Class1.cs",
+              "ToolTip": "E:\\modalida de grado IV\\examen1\\Examen01\\Coling.Shared\\Class1.cs",
+              "RelativeToolTip": "Coling.Shared\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T23:45:10.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "E:\\modalida de grado IV\\examen1\\Examen01\\Examen.API.Proveedores\\Function1.cs",
+              "RelativeDocumentMoniker": "Examen.API.Proveedores\\Function1.cs",
+              "ToolTip": "E:\\modalida de grado IV\\examen1\\Examen01\\Examen.API.Proveedores\\Function1.cs",
+              "RelativeToolTip": "Examen.API.Proveedores\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T23:40:19.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
